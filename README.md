@@ -57,11 +57,7 @@
     </footer>
 
     <script src="script.js"></script>
-</body>
-</html>
-2. CSS (styles.css)
-css
-Copy code
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -140,3 +136,5 @@ document.getElementById('contactForm').addEventListener('submit', function(event
     
     // Here you can add code to send the data to your server or database
 });
+</body>
+</html>
